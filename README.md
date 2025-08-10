@@ -1,5 +1,5 @@
 # Deadline-BIU-BIU-BIU-
-最新为版本1.0.31。
+最新为版本1.0.31。建议升级r为4.5.1 https://cran.r-project.org/bin/windows/base/    RTools 4.5 https://cran.r-project.org/bin/windows/Rtools/
 
 《科研拼图终极解放工具包：告别头秃，拥抱丝滑！》 🤯➡️🚀
 
